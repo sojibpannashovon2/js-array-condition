@@ -23,6 +23,13 @@ console.log(num);
 // Removing item in last position
 
 num.pop();
+num.pop();
 
 console.log(num);
+
+var element = num.pop();
+
+num.pop();
+
+console.log(element);
 
